@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">volumeModul</string>
+    <string name="panjang">Panjang!</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="nama_depan">Nama Depan</string>
+    <string name="BIODATA">BIODATA</string>
+</resources>
